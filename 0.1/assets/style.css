@@ -1,0 +1,36 @@
+body {
+  text-align: justify;
+}
+p {
+  text-indent: 50px;
+}
+.p-center {
+  text-indent: 0px;
+  text-align: center;
+}
+.p-right {
+  text-align: right;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+@page {
+  size: a4 portrait;
+  margin: 25mm 10mm 25mm 10mm;
+  counter-increment: page;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  white-space: pre;
+  color: grey;
+  @top-left {
+      content: '© 2023 artesdosul.com';
+  }
+  @top-center {
+      content: string(chapter);
+  }
+  @top-right {
+      content: 'Página ' counter(page);
+  }
+}
+
+a .md-button, p .md-button {
+  text-indent: 0px !important;
+}
