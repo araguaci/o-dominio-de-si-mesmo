@@ -1,0 +1,16 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% extends "base.html" %}
+{% block extrahead %}
+  <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.min.css' | url }}">
+{% endblock %}
+{% block announce %}
+  <a rel="Stop All Wars" href="https://stop-war-for-ever.vercel.app">
+    <strong>✨ Stop All Wars ✨</strong>
+  </a>
+{% endblock %}
+{% block scripts %}
+  {{ super() }}
+  <script src="{{ 'assets/javascripts/custom.min.js' | url }}"></script>
+{% endblock %}

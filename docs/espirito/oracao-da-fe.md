@@ -1,0 +1,40 @@
+---
+title: Oração da Fé
+---
+
+<div align="center">
+``` 
+Senhor DEUS, criador do céu e da terra, poderoso
+é o vosso nome, grande é vossa misericórdia.
+Em nome do vosso filho Jesus Cristo,
+ recorro a vós neste momento, para pedir
+Benção para minha vida, com vossa luz e vossas mãos
+Retirai todo o mal, todos os perigos e todos os
+Problemas que estejam ao meu redor.
+Que as forças negativas que me abatem e entristecem,
+ se desfaçam no sopro da vossa benção. O vosso poder
+destrua todas as barreiras que impedem o meu
+progresso. E no céu, vossas virtudes penetrem no meu ser,
+dando paz, saúde e prosperidade.
+Abri senhor, os meus caminhos, que meus passos
+Sejam dirigidos por vós, para que eu não tropece no
+Caminho da vida. Meu viver, meu lar e meu trabalho
+Sejam por vós abençoados.
+Entrego-me em vossas mãos poderosas,
+Na certeza que tudo vou alcançar. Agradeço
+Em Nome do Pai, do Filho e do Espírito Santo.
+
+Amém.
+
+“MEU FILHO, VAI EM PAZ, A TUA FÉ, TE SALVOU“
+
+    Quanto maiores são as dificuldades, tanto
+    Mais devemos conservar a tranqüilidade
+    Interior e elevar o coração a DEUS.
+
+```
+</div>
+
+[Catequese para Adultos](https://catequese-para-adultos.vercel.app){.md-button} 
+[Os 10 Mandamentos](https://os-10-mandamentos.vercel.app){.md-button} 
+ 

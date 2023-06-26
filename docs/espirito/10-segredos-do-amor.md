@@ -1,0 +1,25 @@
+---
+title: Os 10 Segredos do Amor
+---
+
+O primeiro segredo do amor abundante é O PODER DO PENSAMENTO.  O amor começa com o pensamento.  Nós nos tornamos o que pensamos.  Pensamentos amorosos criam experiências e relacionamentos amorosos.  As afirmações podem mudar nossas crenças e pensamentos sobre nós mesmos e os outros.
+
+O segundo segredo do amor abundante é O PODER DO RESPEITO.  Você não pode amar nada nem ninguém a menos que primeiro os respeite.  A primeira pessoa que merece seu respeito é você.
+
+O terceiro segredo do amor abundante é O PODER DA ENTREGA.  Se você quer receber amor, tudo que você precisa fazer é dá-lo!  Antes de se comprometer com um relacionamento, não se pergunte o que a outra pessoa pode lhe dar, mas o que você pode contribuir para ela.  A fórmula secreta para um relacionamento amoroso, feliz e duradouro é sempre se concentrar no que você pode dar, em vez do que você pode obter com isso.
+
+O quarto segredo do amor abundante é O PODER DA AMIZADE.  Para encontrar o amor verdadeiro, você deve primeiro encontrar um amigo verdadeiro.  O amor não consiste em olhar nos olhos um do outro, mas em olhar juntos na mesma direção.  Se você quer introduzir o amor em um relacionamento, você deve primeiro trazer amizade para ele.
+
+O quinto segredo do amor abundante é O PODER DO TOQUE FÍSICO.  O contato físico modifica uma das mais poderosas expressões de amor, destrói barreiras e cria laços entre as pessoas.  O contato físico altera nosso estado físico e emocional e nos torna mais receptivos ao amor.  O contato físico ajuda o corpo a se curar e suaviza o coração.  Quando você abre os braços, está abrindo o coração.
+
+O sexto segredo do amor abundante é o PODER DO DESAPEGO.  Se você ama alguma coisa, liberte-a.  Se voltar, é seu;  se não, nunca foi.  Mesmo dentro de um relacionamento amoroso, as pessoas precisam ter seu próprio espaço.  Amar significa deixar de lado nossos medos, preconceitos, ego e condicionamentos.
+
+O sétimo segredo do amor abundante é O PODER DA COMUNICAÇÃO.  Quando aprendemos a nos comunicar abertamente e honestamente, a vida muda.  Deixe as pessoas que você ama saberem que você as ama e as aprecia.  Nunca tenha medo de dizer as palavras mágicas: "EU TE AMO".
+
+O oitavo segredo do amor abundante é O PODER DO COMPROMISSO.  Se você quer amor em abundância, deve assumir um compromisso para alcançá-lo, um compromisso que se refletirá em suas ações e seus pensamentos.  O compromisso é a verdadeira prova de que o amor está presente.  Se você quer ter um relacionamento com o amor, deve se comprometer a criar o relacionamento que deseja.  O compromisso distingue uma relação frágil de uma forte.
+
+O nono segredo do amor abundante é: O PODER DA PAIXÃO.  A paixão acende o amor e o mantém vivo.  Uma paixão duradoura não vem exclusivamente da atração física, mas é causada por um profundo compromisso, entusiasmo, interesse e fascínio pela outra pessoa.
+
+O décimo segredo do amor abundante é O PODER DA CONFIANÇA.  A confiança é essencial para estabelecer um relacionamento amoroso.  Se um parceiro estiver cego pela suspeita, ansiedade e medo, o outro se sentirá preso e emocionalmente sufocado.  Você não pode amar uma pessoa completamente a menos que você confie nela.
+
+- Adam Jackson, autor do livro "Os 10 Segredos do Amor Abundante".

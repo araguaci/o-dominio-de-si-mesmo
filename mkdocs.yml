@@ -1,0 +1,114 @@
+site_name: Aprendendo Todo Dia
+site_description: Aprendendo Todo Dia
+site_author: Araguaci
+site_description: >-
+  Compilado de temas e textos para reflexão pessoal
+
+# Repository
+repo_name: araguaci/o-dominio-de-si-mesmo
+repo_url: https://github.com/araguaci/o-dominio-de-si-mesmo
+
+# Configuration
+theme:
+  name: material # mkdocs 
+  custom_dir: overrides
+  features:
+    # - announce.dismiss
+    - content.code.annotate
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - content.action.edit
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: images/favicon.ico
+  icon:
+    logo: logo
+    edit: material/pencil
+    view: material/eye
+
+markdown_extensions:
+  - abbr
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist  # Lista de tarefas
+  - pymdownx.emoji  # Emojis
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - toc:
+      permalink: ⚓︎
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.snippets:
+      auto_append:
+        - abbreviations.md
+
+extra_css:
+  - assets/style.css
+extra_javascript:
+  - assets/style.js
+
+extra: # Footer
+  version:
+    provider: mike
+    default: latest
+  social:
+    - icon: fontawesome/brands/adn
+      link: http://www.artesdosul.com
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/araguaci
+    - icon: fontawesome/brands/github
+      link: https://github.com/araguaci
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/artesdosulweb
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
+      enable_creation_date: true
+  - mike:
+      version_selector: true
+  - search:
+      lang: pt
+  - pdf-export:
+        verbose: true
+        media_type: print
+        enabled_if_env: ENABLE_PDF_EXPORT
+  
