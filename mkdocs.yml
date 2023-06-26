@@ -84,10 +84,7 @@ extra_css:
 extra_javascript:
   - assets/style.js
 
-extra: # Footer
-  version:
-    provider: mike
-    default: latest
+extra: # Footer 
   social:
     - icon: fontawesome/brands/adn
       link: http://www.artesdosul.com
