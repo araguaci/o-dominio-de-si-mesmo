@@ -102,9 +102,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: datetime
-      enable_creation_date: true
-  - mike:
-      version_selector: true
+      enable_creation_date: true 
   - search:
       lang: pt
   - pdf-export:
