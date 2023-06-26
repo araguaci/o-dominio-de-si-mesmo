@@ -1,4 +1,5 @@
 site_name: Aprendendo Todo Dia
+site_description: Aprendendo Todo Dia
 site_author: Araguaci
 site_description: >-
   Compilado de temas e textos para reflexão pessoal
@@ -83,7 +84,10 @@ extra_css:
 extra_javascript:
   - assets/style.js
 
-extra: # Footer 
+extra: # Footer
+  version:
+    provider: mike
+    default: latest
   social:
     - icon: fontawesome/brands/adn
       link: http://www.artesdosul.com
@@ -97,10 +101,14 @@ extra: # Footer
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
-      type: datetime 
+      type: datetime
+      enable_creation_date: true
+  - mike:
+      version_selector: true
   - search:
       lang: pt
   - pdf-export:
         verbose: true
-        media_type: print 
+        media_type: print
+        enabled_if_env: ENABLE_PDF_EXPORT
   
