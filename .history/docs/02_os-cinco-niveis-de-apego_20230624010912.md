@@ -10,23 +10,23 @@ Muitas vezes, somos governados pelos nossos apegos e pelas nossas crenças, e po
 Em Os cinco níveis de apego, Don Miguel Ruiz Jr. - filho do autor do best-seller internacional Os quatro compromissos, Don Miguel Ruiz - apresenta cinco graus de apego nos quais nos encaixamos ao longo da vida. Ele também ensina como é possível superar esses obstáculos para a autoaceitação e para o equilíbrio interior, de acordo com os ensinamentos da tradição tolteca.
 
  
-## Nível um: o Eu Autêntico
+**- Nível um: o Eu Autêntico**
 
 A essência do Eu Autêntico é respeitada. Leva-se a vida em harmonia, sem preconceitos. O amor e a tolerância formam a base desse nível.
 
-## Nível dois: Preferência
+**- Nível dois: Preferência**
 
 A consciência do Eu Autêntico permanece, mas existe a capacidade de conectar-se a algo que desperte emoção no momento presente, livrando-se do apego assim que o momento passa.
 
-## Nível três: Identidade
+**- Nível três: Identidade**
 
 O Eu Autêntico é deixado de lado na busca por uma identidade socialmente adequada. Ao esquecer a própria essência, a pessoa é afligida por um leve sofrimento.
 
-## Nível quatro: Interiorização
+**- Nível quatro: Interiorização**
 
 Aumenta o apego ao conhecimento e ocorre a domesticação, o que causa sofrimento não só à pessoa, mas também a todos à sua volta. É um nível de grande desarmonia entre corpo, mente e alma.
 
-## Nível cinco: Fanatismo
+**- Nível cinco: Fanatismo**
 
 Extremo e inflexível apego ao conhecimento. A intolerância a ideias opostas é uma das principais características desse nível conservador, que vive preso ao passado.
 
@@ -38,8 +38,10 @@ De forma simples, Ruiz Jr. explica a influência de cada nível de apego em noss
 
  
 
-> "Os cinco níveis de apego irão ajudá-lo a se conscientizar de como seus apegos foram responsáveis pela realidade que está vivendo e de como suas crenças vêm sendo responsáveis por todas as decisões em sua vida." 
+    "Os cinco níveis de apego irão ajudá-lo a se conscientizar de 
+    como seus apegos foram responsáveis pela realidade que está vivendo e de 
+    como suas crenças vêm sendo responsáveis por todas as decisões em sua vida." 
 
-> ~~Don Miguel Ruiz, autor de Os quatro compromissos
+    ~~Don Miguel Ruiz, autor de Os quatro compromissos
 
 [:octicons-star-fill-24:{ .mdx-heart } &nbsp; Os cinco níveis de apego ](https://os-cinco-niveis-de-apego.vercel.app/os-cinco-niveis-de-apego.pdf){ .md-button .md-button--primary .mdx-sponsorship-button }

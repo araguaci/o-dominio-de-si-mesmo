@@ -1,7 +1,5 @@
 ---
 title: Christo nihil praeponere
-hide:
-  - toc
 ---
 
 [![Christo]{ style="height: 154px; " }](https://padrepauloricardo.org/episodios/o-que-significa-christo-nihil-praeponere/){ target=_blank title="Christo nihil praeponere - a nada dar mais valor que a Cristo" }

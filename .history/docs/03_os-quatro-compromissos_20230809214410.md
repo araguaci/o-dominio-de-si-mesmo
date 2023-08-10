@@ -24,4 +24,4 @@ Em Os quatro compromissos, Don Miguel Ruiz revela a fonte de crenças autolimita
 
 > O seu melhor vai mudar de momento para momento; será diferente quando você estiver em equilíbrio ou em desequilíbrio. Sob qualquer circunstância, simplesmente faça o seu melhor e evitará o auto-julgamento, o auto-abuso e o arrependimento." ~~
 
-**~~Don Miguel Ruiz**
+~~Don Miguel Ruiz

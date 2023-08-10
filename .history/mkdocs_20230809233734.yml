@@ -17,7 +17,8 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     - content.tooltips
-    - content.code.copy 
+    - content.code.copy
+    - content.code.annotate
     # - header.autohide
     # - navigation.expand
     - navigation.indexes

@@ -1,8 +1,8 @@
 site_name: Aprendendo Todo Dia
 site_author: Araguaci
-copyright: Copyright &copy; 2023 artesdosul.com
 site_description: >-
   Compilado de temas e textos para reflexão pessoal
+
 # Repository
 repo_name: araguaci/o-dominio-de-si-mesmo
 repo_url: https://github.com/araguaci/o-dominio-de-si-mesmo
@@ -17,7 +17,6 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     - content.tooltips
-    - content.code.copy 
     # - header.autohide
     # - navigation.expand
     - navigation.indexes
@@ -25,8 +24,8 @@ theme:
     # - navigation.instant
     # - navigation.prune
     - navigation.sections
-    #- navigation.tabs
-    #- navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight

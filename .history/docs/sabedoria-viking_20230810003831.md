@@ -1,7 +1,5 @@
 ---
 title: Sabedoria Viking
-hide:
-  - toc
 ---
 
 ## 227 citações, provérbios, poemas e passagens viking
