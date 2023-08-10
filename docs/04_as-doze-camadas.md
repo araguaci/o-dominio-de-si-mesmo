@@ -2,7 +2,8 @@
 title: As 12 Camadas 
 ---
 
-> As doze camadas da personalidade humana e as formas próprias de sofrimento 
+> **As doze camadas da personalidade humana e as formas próprias de sofrimento **
+
 > Por OLAVO DE CARVALHO 
  
 ## Introdução 
@@ -292,9 +293,7 @@ testar na adolescência. Tudo de importante que não foi feito por timidez ou me
 sujeito na camada 5, pois é um sinal de que ele não possui aquele poder.  
 
   
-No entanto, é fundamental detectar quando o problema é entre o sujeito e o mundo, ou 
-
-entre ele e ele mesmo. Derrotado pelo mundo qualquer um pode ser, mas isto é muito 
+No entanto, é fundamental detectar quando o problema é entre o sujeito e o mundo, ou entre ele e ele mesmo. Derrotado pelo mundo qualquer um pode ser, mas isto é muito 
 diferente de restringir o próprio espaço vital. Provar para si o seu valor é essencial numa certa 
 época da vida de qualquer indivíduo. Se isso não for feito na adolescência, vai ter que ser feito 
 mais tarde. Por outro lado, a insistência na demonstração de poder pessoal revela que a 
@@ -308,54 +307,22 @@ maturidade começa no ponto onde o que conta é o resultado efetivo.
  
 > Camada Integrativa. Ungricht, Cyrill Burt, Eysenck.  
 
-Pode-se distinguir entre aptidões, que seriam mais ou menos inatas, e capacidades, que 
-seriam mais ou menos adquiridas. No entanto, não faz sentido estudarmos esta questão antes 
-de termos uma visão suficiente da psicologia do ego, pois aptidão é o domínio consciente de 
-alguma coisa. A aptidão latente ou se transforma em capacidade pela filtragem do ego, ou 
-dela você nunca toma conhecimento. A aptidão é o conjunto dos meios intelectuais, técnicos, 
-etc., de que o indivíduo dispõe para realizar seu caráter, e esses meios em parte dependem 
-dele mesmo, em parte são dados pelo meio ambiente. Uma coisa é estudar a relação entre 
-caráter e hereditariedade, caráter e desenvolvimento cognitivo, e caráter e aptidão. Alguém 
-com uma hereditariedade propícia pode não chegar a ter a capacidade porque faltou em seu 
-meio a oportunidade de adquiri-la.  
+Pode-se distinguir entre aptidões, que seriam mais ou menos inatas, e capacidades, que seriam mais ou menos adquiridas. No entanto, não faz sentido estudarmos esta questão antes de termos uma visão suficiente da psicologia do ego, pois aptidão é o domínio consciente de alguma coisa. A aptidão latente ou se transforma em capacidade pela filtragem do ego, ou dela você nunca toma conhecimento. A aptidão é o conjunto dos meios intelectuais, técnicos, etc., de que o indivíduo dispõe para realizar seu caráter, e esses meios em parte dependem dele mesmo, em parte são dados pelo meio ambiente. Uma coisa é estudar a relação entre caráter e hereditariedade, caráter e desenvolvimento cognitivo, e caráter e aptidão. Alguém com uma hereditariedade propícia pode não chegar a ter a capacidade porque faltou em seu meio a oportunidade de adquiri-la.  
 
-Na passagem para a camada 6 a afirmação do poder pessoal é abandonada em favor da 
-obtenção de um resultado efetivo. Na camada 6 o que interessa não é a demonstração de poder 
-pessoal, mas a consecução de algo objetivo, como trabalhar e receber um salário. Isto é 
-conseqüência de um desvio de eixo de valor, que se transfere do sujeito para o objeto.  
+Na passagem para a camada 6 a afirmação do poder pessoal é abandonada em favor da obtenção de um resultado efetivo. Na camada 6 o que interessa não é a demonstração de poder pessoal, mas a consecução de algo objetivo, como trabalhar e receber um salário. Isto é conseqüência de um desvio de eixo de valor, que se transfere do sujeito para o objeto.  
 
-Um sujeito que trabalha e recebe um salário não provoca uma alteração nele próprio, mas 
-fora dele, a qual retorna não apenas sob a forma de uma satisfação subjetiva, como na camada 
-5, e sim sob a forma de um resultado objetivo.  
+Um sujeito que trabalha e recebe um salário não provoca uma alteração nele próprio, mas fora dele, a qual retorna não apenas sob a forma de uma satisfação subjetiva, como na camada 5, e sim sob a forma de um resultado objetivo.  
 
-Saber algo concreto, não somente saber fazer, mas estar fazendo costumeiramente, ter um 
-domínio efetivo de alguma coisa, mesmo que seja pequena, é a base de qualquer visão 
-objetiva. Enquanto o sujeito não vive isso, ele continua "em teste", porque está 
-permanentemente se olhando como medida de aferição do mundo, ao passo que na camada 6 
-o mundo real se torna a medida do indivíduo.  
+Saber algo concreto, não somente saber fazer, mas estar fazendo costumeiramente, ter um domínio efetivo de alguma coisa, mesmo que seja pequena, é a base de qualquer visão objetiva. Enquanto o sujeito não vive isso, ele continua "em teste", porque está permanentemente se olhando como medida de aferição do mundo, ao passo que na camada 6 o mundo real se torna a medida do indivíduo.  
 
-Se não acontece a aquisição de uma habilidade específica que permita ao indivíduo agir 
-objetivamente, ele se verá sempre como centro de tudo. É fácil perceber a diferença que existe 
-entre a pessoa que tem domínio sobre algo e a que não tem. Na execução de uma tarefa, a 
-primeira se entrega de corpo e alma, enquanto a outra fica se observando, numa espécie de 
-espelho retrovisor, avaliando narcisisticamente o próprio desempenho.  
+Se não acontece a aquisição de uma habilidade específica que permita ao indivíduo agir objetivamente, ele se verá sempre como centro de tudo. É fácil perceber a diferença que existe entre a pessoa que tem domínio sobre algo e a que não tem. Na execução de uma tarefa, a primeira se entrega de corpo e alma, enquanto a outra fica se observando, numa espécie de espelho retrovisor, avaliando narcisisticamente o próprio desempenho.  
 
-É evidente que a plena capacidade individual é obtida somente quando o problema da 
-auto-avaliação narcisista não está mais em jogo. O que agora interessa ao sujeito é realizar 
-algo objetivo, e não apenas sentir-se capaz.  
+É evidente que a plena capacidade individual é obtida somente quando o problema da auto-avaliação narcisista não está mais em jogo. O que agora interessa ao sujeito é realizar algo objetivo, e não apenas sentir-se capaz.  
 
-Nesta camada o indivíduo se esforça para manter ou alterar a organização de sua vida, 
-visando prioritariamente interesses e necessidades pessoais. Tal atitude pode criar um conflito 
-com o papel social que o indivíduo ocupa, revelando sua incapacidade de corresponder a esse 
-papel.  
+Nesta camada o indivíduo se esforça para manter ou alterar a organização de sua vida, visando prioritariamente interesses e necessidades pessoais. Tal atitude pode criar um conflito com o papel social que o indivíduo ocupa, revelando sua incapacidade de corresponder a esse papel.  
 
     
-Na camada 6, a fonte de sofrimento é um prejuízo objetivo, pois havia a pretensão de um 
-
-resultado que se frustrou; é um dano, não de ordem psicológica mas real, muito embora o 
-indivíduo da camada 5 considere seu dano tão real quanto o do indivíduo que não tem 
-dinheiro para pagar o aluguel. Mas se alguém ajuda a resolver o seu problema, ele fica 
-satisfeito, pois não se considera mais em teste.  
+Na camada 6, a fonte de sofrimento é um prejuízo objetivo, pois havia a pretensão de um resultado que se frustrou; é um dano, não de ordem psicológica mas real, muito embora o indivíduo da camada 5 considere seu dano tão real quanto o do indivíduo que não tem dinheiro para pagar o aluguel. Mas se alguém ajuda a resolver o seu problema, ele fica satisfeito, pois não se considera mais em teste.  
  
  
 ## Situações e papéis sociais
@@ -364,79 +331,28 @@ satisfeito, pois não se considera mais em teste.
  
 > Camada Divisiva. Adler, Honey e a escola culturalista em geral; psicologia da comunicação.  
 
-O mesmo indivíduo tem vários sub-egos ou subconstelações da personalidade conforme 
-os seus vários papéis sociais exercidos. Temos que distinguir as várias situações que o 
-indivíduo vivencia, quais são os vários papéis, as diferentes subpersonalidades que cria para 
-se adaptar a essas situações, para não confundir meros papéis sociais com traços de 
-personalidade ou de caráter.  
+O mesmo indivíduo tem vários sub-egos ou subconstelações da personalidade conforme os seus vários papéis sociais exercidos. Temos que distinguir as várias situações que o indivíduo vivencia, quais são os vários papéis, as diferentes subpersonalidades que cria para se adaptar a essas situações, para não confundir meros papéis sociais com traços de personalidade ou de caráter.  
 
-A conquista do poder de fazer algo em particular e de defender nunca abrange a totalidade 
-da existência. Somos capazes de fazer algumas coisas, mas não a maioria delas. Precisamos 
-dos outros e assim desenvolvemos, ao longo do tempo, um papel social que representa o 
-conjunto de expectativas que temos das realizações dos outros às nossas ações, e vice-versa. 
+A conquista do poder de fazer algo em particular e de defender nunca abrange a totalidade da existência. Somos capazes de fazer algumas coisas, mas não a maioria delas. Precisamos dos outros e assim desenvolvemos, ao longo do tempo, um papel social que representa o conjunto de expectativas que temos das realizações dos outros às nossas ações, e vice-versa. 
+
 Trata-se portanto de um conjunto de reciprocidades.  
 
-O papel social abrevia a comunicação com as pessoas em torno, por exemplo, numa 
-situação profissional, e também facilita a comunicação dentro de uma linha predeterminada, 
-para isso excluindo uma série de outras. Muitos comportamentos que seriam humanamente 
-possíveis ficam ausentes de um papel social específico. Como o papel social estabelece 
-expectativas constantes sobre o comportamento, ele coloca a ação individual em um quadro 
-de reciprocidades. Isto se refere não somente aos papéis profissionais, mas igualmente aos 
-papéis familiares.  
+O papel social abrevia a comunicação com as pessoas em torno, por exemplo, numa situação profissional, e também facilita a comunicação dentro de uma linha predeterminada, para isso excluindo uma série de outras. Muitos comportamentos que seriam humanamente possíveis ficam ausentes de um papel social específico. Como o papel social estabelece expectativas constantes sobre o comportamento, ele coloca a ação individual em um quadro de reciprocidades. Isto se refere não somente aos papéis profissionais, mas igualmente aos papéis familiares.  
 
-O papel social legitima pretensões e permite respostas automatizadas, de acordo com a sua 
-natureza. Porém, isto exige uma limitação. Se um indivíduo que ocupa um papel passa a agir 
-repetidamente fora dele, os outros ficam confusos, o que vai comprometer o sistema de 
-respostas automáticas.  
-Reconhecemos que alguém incorporou um papel social somente quando as exigências desse 
-papel são aceitas e assimiladas plenamente como fonte de motivação. A partir daí, a 
-organização da vida pessoal é feita considerando-se as expectativas dos outros. O objetivo não 
-é mais atender apenas as conveniências do indivíduo, mas sim aprimorar o seu papel social.  
+O papel social legitima pretensões e permite respostas automatizadas, de acordo com a sua natureza. Porém, isto exige uma limitação. Se um indivíduo que ocupa um papel passa a agir repetidamente fora dele, os outros ficam confusos, o que vai comprometer o sistema de respostas automáticas.  
 
-Muitas vezes a definição de um papel se torna difícil, como por exemplo, os papéis de pai 
-e de mãe perante os filhos. As pessoas em geral não têm claro o que é a estrutura familiar e 
-portanto não entendem que os papéis de pai e mãe são primordialmente biológicos, isto é, o 
-filho é um ser indefeso e os pais seus defensores. Nesse sentido, os pais dispõem de 
-autoridade absoluta nos pontos essenciais para a defesa da criança. Se os papéis se misturam, 
-e a mãe interfere em assuntos que não são de mãe e o pai interfere em assuntos que não são de 
-pai, a criança termina desorientada.  
+Reconhecemos que alguém incorporou um papel social somente quando as exigências desse papel são aceitas e assimiladas plenamente como fonte de motivação. A partir daí, a organização da vida pessoal é feita considerando-se as expectativas dos outros. O objetivo não é mais atender apenas as conveniências do indivíduo, mas sim aprimorar o seu papel social.  
 
-Atualmente, todos os papéis estão confusos, de pai, mãe, filho, marido, mulher, etc. 
-Quando uma sociedade não distingue os papéis dos indivíduos, as relações entre eles vão se 
-mostrar problemáticas, porque sempre será preciso explicações, sempre surgirão expectativas 
-falsas, decepções, conflitos.  
+Muitas vezes a definição de um papel se torna difícil, como por exemplo, os papéis de pai e de mãe perante os filhos. As pessoas em geral não têm claro o que é a estrutura familiar e portanto não entendem que os papéis de pai e mãe são primordialmente biológicos, isto é, o filho é um ser indefeso e os pais seus defensores. Nesse sentido, os pais dispõem de autoridade absoluta nos pontos essenciais para a defesa da criança. Se os papéis se misturam, e a mãe interfere em assuntos que não são de mãe e o pai interfere em assuntos que não são de pai, a criança termina desorientada.  
+
+Atualmente, todos os papéis estão confusos, de pai, mãe, filho, marido, mulher, etc. Quando uma sociedade não distingue os papéis dos indivíduos, as relações entre eles vão se mostrar problemáticas, porque sempre será preciso explicações, sempre surgirão expectativas falsas, decepções, conflitos.  
 
     
-A convivência humana é marcada por uma distribuição de papéis, por expectativas mútuas 
+A convivência humana é marcada por uma distribuição de papéis, por expectativas mútuas e por um sistema de legitimidades, de direitos e deveres recíprocos, cujo sentido correto indica que a cada direito equivale um dever alheio. Proclamar um direito, para um indivíduo ou para um grupo, é atribuir um dever recíproco a um outro indivíduo ou a um outro grupo. A promulgação de um direito traz, assim, implicitamente um dever. Em todas as relações humanas existe um sistema de expectativas mútuas, no qual a cada dever de um cabe um direito ao outro, e a cada direito de um incumbe um dever de outro. A confusão dos papéis sociais ocorre quando a expectativa de direito de um não corresponde a deveres do outro, e vice-versa.  
 
-e por um sistema de legitimidades, de direitos e deveres recíprocos, cujo sentido correto 
-indica que a cada direito equivale um dever alheio. Proclamar um direito, para um indivíduo 
-ou para um grupo, é atribuir um dever recíproco a um outro indivíduo ou a um outro grupo. A 
-promulgação de um direito traz, assim, implicitamente um dever. Em todas as relações 
-humanas existe um sistema de expectativas mútuas, no qual a cada dever de um cabe um 
-direito ao outro, e a cada direito de um incumbe um dever de outro. A confusão dos papéis 
-sociais ocorre quando a expectativa de direito de um não corresponde a deveres do outro, e 
-vice-versa.  
+Após a conquista da habilidade, ou seja, do poder de se defender, que resulta da hierarquização seletiva, o exercício de um papel social representa a sétima camada na construção da personalidade. A conquista de um poder efetivo, que se experimenta na camada 6, pode ou não se converter num papel social. Os papéis sociais são delineados de maneira implícita, pois eles se baseiam e se consolidam no costume. Aquilo que sou capaz de fazer, se eu fizer costumeiramente, as pessoas vão notar que eu faço e acabarão criando um sistema de expectativas em torno daquilo.  
 
-Após a conquista da habilidade, ou seja, do poder de se defender, que resulta da 
-hierarquização seletiva, o exercício de um papel social representa a sétima camada na 
-construção da personalidade. A conquista de um poder efetivo, que se experimenta na camada 
-6, pode ou não se converter num papel social. Os papéis sociais são delineados de maneira 
-implícita, pois eles se baseiam e se consolidam no costume. Aquilo que sou capaz de fazer, se 
-eu fizer costumeiramente, as pessoas vão notar que eu faço e acabarão criando um sistema de 
-expectativas em torno daquilo.  
-
-O casamento é um protótipo do papel social, e é o mais problemático de todos. O Dr. J.A. 
-Müller afirmava que em geral o casamento atende a uma constelação de necessidades muito 
-diferentes entre si, que poderíamos relacionar com as camadas da personalidade. Em primeiro 
-lugar, a atração física mútua, que não ocorre entre quaisquer pessoas, pois tem um fundo 
-hereditário marcante, e o teste de Szondi é revelador neste sentido. Entretanto, esse dado não 
-basta, pois duas pessoas podem sentir uma atração mútua, mas terem linguagens diferentes, 
-culturas desiguais. Além disso, devem suprir as necessidades afetivas nascidas das respectivas 
-histórias pessoais. Por exemplo, o padrão de relacionamento entre um homem e sua mãe, e 
-entre uma mulher e seu pai, pode determinar, positiva ou negativamente, a necessidade afetiva 
-a ser atendida. Do mesmo modo, os respectivos espaços vitais e as possibilidades reais de 
-ação devem ser coeridos de alguma maneira.  
+O casamento é um protótipo do papel social, e é o mais problemático de todos. O Dr. J.A. Müller afirmava que em geral o casamento atende a uma constelação de necessidades muito diferentes entre si, que poderíamos relacionar com as camadas da personalidade. Em primeiro lugar, a atração física mútua, que não ocorre entre quaisquer pessoas, pois tem um fundo hereditário marcante, e o teste de Szondi é revelador neste sentido. Entretanto, esse dado não basta, pois duas pessoas podem sentir uma atração mútua, mas terem linguagens diferentes, culturas desiguais. Além disso, devem suprir as necessidades afetivas nascidas das respectivas histórias pessoais. Por exemplo, o padrão de relacionamento entre um homem e sua mãe, e entre uma mulher e seu pai, pode determinar, positiva ou negativamente, a necessidade afetiva a ser atendida. Do mesmo modo, os respectivos espaços vitais e as possibilidades reais de ação devem ser coeridos de alguma maneira.  
 
 Como o papel social de marido e mulher tem que responder a uma constelação de motivos 
 que se originam em várias camadas da personalidade, é desnecessário dizer que o casamento 
@@ -754,7 +670,9 @@ intelectuais ou cientistas.
 
 > **CAMADA 10**    
  
-> Camada Divisiva. Kant, Husserl, Berdiaeff, Gusdorf, Caruso. Eu transcendental, responsabilidade moral, livre-arbítrio, etc.  
+> Camada Divisiva. Kant, Husserl, Berdiaeff, Gusdorf, Caruso. 
+
+> Eu transcendental, responsabilidade moral, livre-arbítrio, etc.  
 
 O problema da personalidade moral só se coloca a partir do momento e que o sujeito tem 
 uma personalidade. intelectual, pois é a personalidade intelectual que vai destacar no 
@@ -879,6 +797,7 @@ muito acima do que os seres humanos costumam imaginar. Gandhi agia exatamente ao
 contrário do raciocínio político, apelando para o centro da questão e oferecendo como 
 garantia não apenas sua própria vida, mas seu destino "post-mortem".  
 Na camada 12 todas as ações são pautadas pela seguinte regra: "o que Deus vai achar disto?" 
+
 Tal é o sujeito que, de acordo com a Bíblia, caminha diante de Deus e sabe o que Ele está 
 pensando. Normalmente, mesmo uma pessoa excepcional não submete todos os atos a esse 
 critério. O confronto com Deus pressupõe que o homem seja capaz de conceber cada ato seu 
@@ -925,8 +844,9 @@ de atos sem sentido. Existem indivíduos que já nascem na camada 12, tanto que 
 pelas que a antecedem elas vão sendo absorvidas rapidamente.  
  
  
-## CRITÉRIOS DE RECONHECIMENTO  
+## Critérios
  
+> **CRITÉRIOS DE RECONHECIMENTO**
 
 As camadas fluem sucessivamente na medida em que o sujeito evolui, absorvendo os 
 elementos contidos na camada anterior e os direcionando segundo um outro princípio 
@@ -1009,4 +929,5 @@ A diferença entre camada da personalidade e casa astrológica é esta: o sujeit
 
 
 **Sapientiam Autem Non Vincit Malitia** 
-**www.seminariodefilosofia.org**
+
+[**www.seminariodefilosofia.org**](https://www.seminariodefilosofia.org)

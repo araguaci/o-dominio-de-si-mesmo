@@ -87,6 +87,8 @@ extra: # Footer
   social:
     - icon: fontawesome/brands/adn
       link: http://www.artesdosul.com
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/araguaciandrade
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/araguaci
     - icon: fontawesome/brands/github
