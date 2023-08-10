@@ -61,3 +61,6 @@ div .grid .cards ul {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 5px 7px 0px;
   border-radius: 7px;
 }
+.md-content__inner>p>a>img {
+  align-items: center;
+}
