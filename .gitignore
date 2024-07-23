@@ -1,3 +1,4 @@
 site/
 ./mkdocs-bkp.yml
 *.rar
+.vercel
