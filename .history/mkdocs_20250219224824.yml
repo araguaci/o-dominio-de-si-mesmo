@@ -106,8 +106,8 @@ plugins:
       type: datetime 
   - search:
       lang: pt
-#  - pdf-export:
-#        verbose: true
-#        media_type: print 
-#        combined: true
-#        theme_handler_path: theme-handler/cinder.py
+  - pdf-export:
+        verbose: true
+        media_type: print 
+        combined: true
+        theme_handler_path: theme-handler/cinder.py
